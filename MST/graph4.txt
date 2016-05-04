@@ -1,0 +1,21 @@
+8
+Q
+W
+E
+R
+T
+Y
+U
+I
+Q W 2
+Q T 11
+T I 16
+I Y 2
+T W 7
+W E 4
+W Y 15
+Y U 5
+Y E 3
+E R 5
+E U 2
+U R 1

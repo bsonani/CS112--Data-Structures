@@ -1,0 +1,21 @@
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+A B 20
+A C 5
+A I 10
+B D 1
+D E 16
+D F 105
+E C 3
+E G 24
+F H 26
+G H 245
+C I 15
